@@ -1,4 +1,5 @@
 # fuck-twitch.tv
+Build your own live-streaming app!
 
 ```
 $ docker-compose build
