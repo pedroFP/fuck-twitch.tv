@@ -33,3 +33,5 @@ $ docker-compose up
 `locahost:8080`
 
 ### Enjoy! 😉
+
+Based on this [video](https://www.youtube.com/watch?v=yKdPSXkaV5c)
