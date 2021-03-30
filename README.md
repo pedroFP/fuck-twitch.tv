@@ -1,4 +1,4 @@
-# fuck-twitch.tv
+# my-twitch.tv
 Build your own live-streaming app!
 
 ![image](https://user-images.githubusercontent.com/22729642/112779209-94828d80-901c-11eb-9618-47931ff7a74a.png)
