@@ -12,14 +12,7 @@ In this case `CHANGE_TO_STREAM_PATH` is `test` but you can change that to whatev
 
 <hr>
 
-```JS
-// auth/server.js
-const streamkey = req.body.key; // => change the key param to any name you'd like but remember to change in the STREAM KEY
-if (streamkey === "<PUT A PASSWORD>") { // => set your password to anything you prefer
-  res.status(200).send();
-  return;
-}
-```
+### This branch separated the stream `auth`
 
 
 ```
